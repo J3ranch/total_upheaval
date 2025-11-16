@@ -4,6 +4,7 @@ Discord Invite: <https://discord.gg/yx2yFA2wDR>
 Twitter: <https://twitter.com/totalupheaval>  
 itch.io: <https://totalupheaval.itch.io/total-upheaval>  
 Kickstarter: <https://www.kickstarter.com/projects/totalupheaval/total-upheaval-chapter-0-1>  
+[Credits](https://docs.google.com/spreadsheets/d/1_LniyDHPKge8EdwD9ed1e4f79wD4jhvQewLOS8vJrQY/edit#gid=0)
 
 ![Synopsis](https://github.com/J3ranch/total_upheaval/raw/main/assets/heading_synopsis.png "Synopsis")
 
